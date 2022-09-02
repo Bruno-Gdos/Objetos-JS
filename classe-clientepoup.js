@@ -31,5 +31,6 @@ class ClientePoupanca extends Cliente{
 }
 
 const ju = new ClientePoupanca("Ju","123.456.789-09","ju@emaik.com",100,1000);
+const andre = new Cliente("Andre","123.456.789-09","andre@aa.com",1000);
 
 console.log(ju);
